@@ -34,6 +34,23 @@ etc.
 
 Now write in a few of these in your file. Here's one from us (songs in the
 English post-punk genre).
+ "Love wil Tear Us Apart"
+ "Bela Lugosi's Dead"
+ "A Forest"
+ "Nine While Nine"
+ :Girlfriend In a Coma"
+
+
+ "Bela Lugosi's Dead"
+ "A Forest"
+ "Nine While Nine"
+ :Girlfriend In a Coma"
+
+
+
+
+
+
 
 ```text
 "Love Will Tear Us Apart"
